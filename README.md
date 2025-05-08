@@ -1,6 +1,14 @@
 # Audio-Jailbreak-Attacks
 This is the official implementation of Audio Jailbreak Attacks: Exposing Vulnerabilities in SpeechGPT within a White-Box Framework.
 
+<p align="">
+  <img src="pipline_change.png" width="500">
+</p>
+
+
+
+
+
 Please install the dependencies using the following method.
 
 ```
